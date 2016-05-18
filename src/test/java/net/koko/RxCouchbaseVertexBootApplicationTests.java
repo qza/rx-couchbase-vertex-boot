@@ -8,7 +8,6 @@ import org.springframework.test.context.web.WebAppConfiguration;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = RxCouchbaseVertexBootApplication.class)
-@WebAppConfiguration
 public class RxCouchbaseVertexBootApplicationTests {
 
 	@Test

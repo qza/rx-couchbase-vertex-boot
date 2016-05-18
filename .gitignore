@@ -3,6 +3,7 @@
 .gradle
 gradle
 build/
+.vertx
 
 # Ignore Gradle GUI config
 gradle-app.setting
